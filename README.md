@@ -12,8 +12,6 @@
 
 ## ⚡🙋‍♂️ About Me
 
-</br>
-
 - 🔧 I’m currently working as a web developer at Français Authentique.
 
 - 🤔 I’m curious about ...Web3 and AI
