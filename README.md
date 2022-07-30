@@ -3,12 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hello!+its+Jean+Didier;Full+stack+web+developer...;Tech+Enthusiast+&Blogger...;Open+Source+Contributor..."/>
  
  <p>
-  <i>Self-taught web developer from Burkina Faso with a 4 years medical studies background. Lifelong learner and passionate about metalearning (learning how to learn, speed & efficient learning) which I apply to coding and anything related to web developement. I love productivity and place a special emphasis on writing good quality code.
+  <i>Self-taught web developer from Burkina Faso with a 4 years medical studies background. Lifelong learner and passionate about metalearning (learning how to learn, speed & efficient learning) which I apply to coding and anything related to web developement. I love productivity and place a special emphasis on writing good quality code.<br><br>
   </i>
  </p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
+<br>
 
 ## ⚡🙋‍♂️ About Me
 
@@ -18,7 +19,7 @@
 - 📖 I’m currently learning and sharpening my skills in my tech stack
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...tarpagajd@gmail.com.
-
+<br><br>
 <hr>
 
 
@@ -26,8 +27,7 @@
   <tr>
     <td width="60%">
      
-  ## 🛠️ Skills stack
-
+  ## 🛠️ Tech stack
   #### Language
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -73,20 +73,19 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
       </td>
+      </tr>
+      <tr>
       <td>
-  ## 📄📜 Stats
+  ## 📄📜 Some stats
   <p align="center">
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tarpagad&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&count_private=true&include_all_commits=true" /></br>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarpagad"/>
-  </br>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarpagad"/></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarpagad&count_private=true" />
     
   </p>
   </td>
   </tr>
 </table>
-
-
 
 </br>
 </br>
