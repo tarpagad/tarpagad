@@ -3,24 +3,26 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hello!+its+Jean+Didier;Full+stack+web+developer...;Tech+Enthusiast+&Blogger...;Open+Source+Contributor..."/>
  
  <p>
-  <i>Self-taught web developer from Burkina Faso with a 4 years medical studies background. Lifelong learner and passionate about metalearning (learning how to learn, speed & efficient learning) which I apply to coding and anything related to web developement. I love productivity and place a special emphasis on writing good quality code.<br><br>
+  <i>Self-taught web developer from Burkina Faso with a 4 years medical studies background. <br>Lifelong learner and passionate about metalearning (learning how to learn, speed & efficient learning) which I apply to coding and anything related to web developement.
+  <br>I love productivity and place a special emphasis on writing good quality code.<br><br>
   </i>
  </p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="40%" align="right" />
+<hr width="60%">
+<br>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 <br>
 
 ## ⚡🙋‍♂️ About Me
 
-- 🔧 I’m currently working as a web developer at Français Authentique.
-
-- 🤔 I’m curious about ...Web3 and AI
+- 🌍 I speak French (native), English + currently learning Russian
+- 🤔 I’m curious about Web3 and AI
 - 📖 I’m currently learning and sharpening my skills in my tech stack
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...tarpagajd@gmail.com.
+- ❄️ I’m looking to collaborate on Open Source Projects.
+- 📫 How to reach me : 👉 tarpagajd@gmail.com.
 <br><br>
-<hr>
+<hr width="60%">
 
 
 <table width="100%" >
@@ -32,7 +34,8 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp; 
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 
@@ -122,20 +125,12 @@
 </br>
 
 
-<!--
 
 <div style = "display: flex; align-items: center; justify-content: center;">
  
   <div>
     
-<a href="https://www.buymeacoffee.com/gkaustav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://ko-fi.com/F1F1BRCNJ"><img src = "https://ko-fi.com/img/githubbutton_sm.svg"/></a>
+<a href="https://www.buymeacoffee.com/tarpaga" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
     
   </div>
  </div>
-
--->
-
-<!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftarpagad%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
-
-
