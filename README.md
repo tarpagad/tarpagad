@@ -106,8 +106,7 @@
 
 
 <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
+<b style ="font-weight: 600">Visitors Count</b>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tarpagad}/count.svg" /></p> 
 <br>
 </div>
@@ -125,12 +124,5 @@
 </br>
 
 
-
-<div style = "display: flex; align-items: center; justify-content: center;">
- 
-  <div>
-    
-<a href="https://www.buymeacoffee.com/tarpaga" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    
-  </div>
- </div>
+## 🙏 Support me 🙏
+<a href="https://www.buymeacoffee.com/tarpaga" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
