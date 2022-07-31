@@ -12,18 +12,15 @@
 <hr width="60%">
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
-<br>
 
 ## ⚡🙋‍♂️ About Me
-
 - 🌍 I speak French (native), English + currently learning Russian
 - 🤔 I’m curious about Web3 and AI
 - 📖 I’m currently learning and sharpening my skills in my tech stack
 - ❄️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me : 👉 tarpagajd@gmail.com.
-<br><br>
-<hr width="60%">
 
+<br><br>
 
 <table width="100%" >
   <tr>
@@ -123,6 +120,5 @@
 </br>
 </br>
 
-
-## 🙏 Support me 🙏
-<a href="https://www.buymeacoffee.com/tarpaga" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<div style="display: flex; align-items:center;justify-content: center; flex-direction: column">
+<h2>🙏 Support me 🙏</h2><a href="https://www.buymeacoffee.com/tarpaga" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></div
