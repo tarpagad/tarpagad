@@ -24,7 +24,7 @@
 
 <table width="100%" >
   <tr>
-    <td width="60%">
+    <td>
      
   ## 🛠️ Tech stack
   #### Language
