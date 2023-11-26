@@ -78,13 +78,7 @@
 
 </td>
 </tr>
-<tr>
-<td>
 
-## 📄📜 Some stats
-
-  </td>
-  </tr>
 </table>
 
 </br>
