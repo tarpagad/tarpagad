@@ -83,9 +83,6 @@
 
 ## 📄📜 Some stats
 
-  <p align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=tarpagad&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&count_private=true&include_all_commits=true" /></br>
-  </p>
   </td>
   </tr>
 </table>
